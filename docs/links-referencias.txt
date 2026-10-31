@@ -11,3 +11,6 @@ profissional: https://www.instagram.com/dr.mikeledson?exln=bHdpZTlid2JwbDYw&utm_
 
 
 whatsapp = +55 47 8901-5934
+
+
+linkdin = https://www.linkedin.com/in/mike-ledson-domingos-b94924163?utm_source=share_via&utm_content=profile&utm_medium=member_ios
